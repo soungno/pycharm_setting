@@ -1,0 +1,50 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="DocumentationAutoUpdateEnabled" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="PACKAGE_FILTER" value="ipy&#10;ipython" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SettingsSearchHistory" value="jupytr&#10;setting&#10;export&#10;data view&#10;dataview" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="sortBy:featured&#10;Database&#10;jenkins&#10;.Dummy Text&#10;CodeGlance" />
+    <property name="export.settings.path" value="c:\settings_office.zip" />
+    <property name="file.chooser.recent.files" value="C:/workspaces/able_migration/dba/src/python/pdw_size_check&#10;C:/workspaces/able/src/pdw/pdw_size_check&#10;C:/workspaces/able&#10;C:/workspaces/able/src&#10;C:/Users/김성노/.conda&#10;C:/Users/김성노/.dotnet&#10;C:/Program Files/R" />
+    <property name="file.gist.reindex.count" value="29623" />
+    <property name="fileTypeChangedCounter" value="11" />
+    <property name="ideavim.statistics.timestamp" value="1551684754790" />
+    <property name="lastTip" value="3" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="quick.doc.font.size" value="MEDIUM" />
+    <property name="selected.color.option.type" value="LINE_NUMBERS_COLOR" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\ProgramData\Anaconda3\envs\able\python.exe" value="false" />
+        <entry key="C:\Users\soungno\Anaconda3\envs\pdw_size_check\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\ProgramData\Anaconda3\envs\able\python.exe" value="false" />
+        <entry key="C:\Users\soungno\Anaconda3\envs\pdw_size_check\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\ProgramData\Anaconda3\envs\able\python.exe" value="false" />
+        <entry key="C:\Users\soungno\Anaconda3\envs\pdw_size_check\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
