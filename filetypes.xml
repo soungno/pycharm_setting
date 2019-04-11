@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="V" type="PLAIN_TEXT" />
       <mapping pattern="pdw_size_info" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
