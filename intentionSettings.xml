@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="SQL/Introduce table alias" />
+  </component>
+</application>
